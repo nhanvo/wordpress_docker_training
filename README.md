@@ -1,6 +1,6 @@
-Date: 2019/03/22
-Author: NhanVo
-Description: This is project training docker, wordpress, mysql, phpmyadmin.
+Date: 2019/03/22</br>
+Author: NhanVo</br>
+Description: This is project training docker, wordpress, mysql, phpmyadmin.</br>
 1. Install docker images: wordpress, mysql, phpmyadmin
     - docker-compose up
 2. Setup host for phpmyadmin
